@@ -1,0 +1,9 @@
+Extrair metodo (10%) ? OK
+Substituir método por objeto-metodo (30%) ? +/-, faltou referencia para classe
+de origem
+
+Extrair classe (20%) ? OK
+
+Nota final: 50
+
+Comentarios:
